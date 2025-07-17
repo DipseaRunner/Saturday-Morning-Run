@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>February 11, 2012 - To Be Named Trail</title>
+   	<link>.</link>
+        <generator>jAlbum 9</generator>
+   		<description></description>
+        <item>
+            <title>IMG_7511</title>
+            <link>slides/IMG_7511.html#</link>
+            <pubDate>Sat, 11 Feb 2012 17:42:20 -0800</pubDate>
+            <description>Top of Miller Trail.</description>
+            <media:description type="html">Top of Miller Trail.</media:description>
+            <media:thumbnail url="thumbs/IMG_7511.JPG" width="120" height="81"/>
+            <media:content type="image/jpeg" url="slides/IMG_7511.JPG" width="720" height="486"/>
+            <jalbum:exif originalDate="2/11/12 11:05 AM" cameraMake="Canon" cameraModel="Canon PowerShot S95"/>
+            <guid isPermaLink="false">slides/IMG_7511.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_7515</title>
+            <link>slides/IMG_7515.html#</link>
+            <pubDate>Sat, 11 Feb 2012 17:42:20 -0800</pubDate>
+            <description>Horst and Jack.</description>
+            <media:description type="html">Horst and Jack.</media:description>
+            <media:thumbnail url="thumbs/IMG_7515.JPG" width="92" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_7515.JPG" width="462" height="600"/>
+            <jalbum:exif originalDate="2/11/12 11:05 AM" cameraMake="Canon" cameraModel="Canon PowerShot S95"/>
+            <guid isPermaLink="false">slides/IMG_7515.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_7518</title>
+            <link>slides/IMG_7518.html#</link>
+            <pubDate>Sat, 11 Feb 2012 17:42:20 -0800</pubDate>
+            <description>Tomas admiring his latest discovery. We need a name...</description>
+            <media:description type="html">Tomas admiring his latest discovery. We need a name...</media:description>
+            <media:thumbnail url="thumbs/IMG_7518.JPG" width="120" height="82"/>
+            <media:content type="image/jpeg" url="slides/IMG_7518.JPG" width="720" height="493"/>
+            <jalbum:exif originalDate="2/11/12 11:08 AM" cameraMake="Canon" cameraModel="Canon PowerShot S95"/>
+            <guid isPermaLink="false">slides/IMG_7518.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_7527</title>
+            <link>slides/IMG_7527.html#</link>
+            <pubDate>Sat, 11 Feb 2012 17:42:20 -0800</pubDate>
+            <description>Great stuff on this new trail.</description>
+            <media:description type="html">Great stuff on this new trail.</media:description>
+            <media:thumbnail url="thumbs/IMG_7527.JPG" width="120" height="68"/>
+            <media:content type="image/jpeg" url="slides/IMG_7527.JPG" width="720" height="408"/>
+            <jalbum:exif originalDate="2/11/12 11:09 AM" cameraMake="Canon" cameraModel="Canon PowerShot S95"/>
+            <guid isPermaLink="false">slides/IMG_7527.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_7546</title>
+            <link>slides/IMG_7546.html#</link>
+            <pubDate>Sat, 11 Feb 2012 17:42:20 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_7546.JPG" width="120" height="82"/>
+            <media:content type="image/jpeg" url="slides/IMG_7546.JPG" width="720" height="496"/>
+            <jalbum:exif originalDate="2/11/12 11:17 AM" cameraMake="Canon" cameraModel="Canon PowerShot S95"/>
+            <guid isPermaLink="false">slides/IMG_7546.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_7550</title>
+            <link>slides/IMG_7550.html#</link>
+            <pubDate>Sat, 11 Feb 2012 17:42:20 -0800</pubDate>
+            <description>Jack in the woods.</description>
+            <media:description type="html">Jack in the woods.</media:description>
+            <media:thumbnail url="thumbs/IMG_7550.JPG" width="120" height="84"/>
+            <media:content type="image/jpeg" url="slides/IMG_7550.JPG" width="720" height="509"/>
+            <jalbum:exif originalDate="2/11/12 11:19 AM" cameraMake="Canon" cameraModel="Canon PowerShot S95"/>
+            <guid isPermaLink="false">slides/IMG_7550.JPG</guid>
+        </item>
+    </channel>
+</rss>

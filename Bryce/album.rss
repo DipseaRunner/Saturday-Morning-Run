@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Bryce</title>
+   	<link>.</link>
+        <generator>jAlbum 9</generator>
+   		<description></description>
+        <item>
+            <title>IMG_4045</title>
+            <link>slides/IMG_4045.html#</link>
+            <pubDate>Sun, 30 Jun 2013 11:04:54 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_4045.JPG" width="120" height="85"/>
+            <media:content type="image/jpeg" url="slides/IMG_4045.JPG" width="720" height="512"/>
+            <jalbum:exif originalDate="6/29/13 8:53 AM" cameraMake="Canon" cameraModel="Canon PowerShot S95"/>
+            <guid isPermaLink="false">slides/IMG_4045.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_4048</title>
+            <link>slides/IMG_4048.html#</link>
+            <pubDate>Sun, 30 Jun 2013 11:04:54 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_4048.JPG" width="120" height="75"/>
+            <media:content type="image/jpeg" url="slides/IMG_4048.JPG" width="720" height="455"/>
+            <jalbum:exif originalDate="6/29/13 8:57 AM" cameraMake="Canon" cameraModel="Canon PowerShot S95"/>
+            <guid isPermaLink="false">slides/IMG_4048.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_4049</title>
+            <link>slides/IMG_4049.html#</link>
+            <pubDate>Sun, 30 Jun 2013 11:04:54 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_4049.JPG" width="120" height="82"/>
+            <media:content type="image/jpeg" url="slides/IMG_4049.JPG" width="720" height="496"/>
+            <jalbum:exif originalDate="6/29/13 8:58 AM" cameraMake="Canon" cameraModel="Canon PowerShot S95"/>
+            <guid isPermaLink="false">slides/IMG_4049.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_4050</title>
+            <link>slides/IMG_4050.html#</link>
+            <pubDate>Sun, 30 Jun 2013 11:04:54 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_4050.JPG" width="120" height="81"/>
+            <media:content type="image/jpeg" url="slides/IMG_4050.JPG" width="720" height="490"/>
+            <jalbum:exif originalDate="6/29/13 8:58 AM" cameraMake="Canon" cameraModel="Canon PowerShot S95"/>
+            <guid isPermaLink="false">slides/IMG_4050.JPG</guid>
+        </item>
+        <item>
+            <title>Ski Aeneas</title>
+            <link>Ski Aeneas.mov#</link>
+            <pubDate>Sun, 30 Jun 2013 11:04:54 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="res/movie.png" width="64" height="64"/>
+            <media:content  url="Ski Aeneas.mov" width="64" height="64"/>
+            <jalbum:original url="Ski Aeneas.mov" width="64" height="64" fileSize="17339165"/>
+            <guid isPermaLink="false">res/movie.png</guid>
+        </item>
+        <item>
+            <title>Snow Board Aeneas</title>
+            <link>Snow Board Aeneas.mov#</link>
+            <pubDate>Sun, 30 Jun 2013 11:04:54 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="res/movie.png" width="64" height="64"/>
+            <media:content  url="Snow Board Aeneas.mov" width="64" height="64"/>
+            <jalbum:original url="Snow Board Aeneas.mov" width="64" height="64" fileSize="22562329"/>
+            <guid isPermaLink="false">res/movie.png</guid>
+        </item>
+        <item>
+            <title>IMG_4053</title>
+            <link>slides/IMG_4053.html#</link>
+            <pubDate>Sun, 30 Jun 2013 11:04:54 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_4053.JPG" width="120" height="71"/>
+            <media:content type="image/jpeg" url="slides/IMG_4053.JPG" width="720" height="431"/>
+            <jalbum:exif originalDate="6/29/13 9:04 AM" cameraMake="Canon" cameraModel="Canon PowerShot S95"/>
+            <guid isPermaLink="false">slides/IMG_4053.JPG</guid>
+        </item>
+    </channel>
+</rss>

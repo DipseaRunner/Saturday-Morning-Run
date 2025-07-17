@@ -1,0 +1,291 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> 
+<HTML>
+<HEAD>
+<!-- saved from url=(0013)about:internet -->
+<TITLE>September 21, 2008 - Yosemite</TITLE>
+<meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1">
+<meta name="Keywords" content="photo album,gallery,photo gallery,digital,photo,gallery,online">
+
+<link href="res/styles.css" rel="stylesheet">
+<script language="JavaScript1.2" type="text/javascript">
+<!--keyboard controls-->
+
+function keypress(e){
+  if(!e) var e = window.event;
+  if(e.keyCode) keyCode=e.keyCode; else if(e.which) keyCode=e.which;
+  switch(keyCode) {
+	case 8: window.location="../../index.html"; return false; break;
+	case 63235: case 39: window.location="index4.html"; return false; break;
+	case 63234: case 37: window.location="index2.html"; return false; break;
+	case 63273: case 36: window.location="index.html"; return false; break;
+	case 63275: case 35: window.location="index5.html"; return false; break;
+	
+	
+  }
+  return true;
+}
+function keypresslistener() {
+if(document.all) { document.onkeydown = keypress; }
+else if(document.layers || document.getElementById) { document.onkeypress = keypress; }
+}
+up0 = new Image(31,31);  up0.src = "res/up.gif";
+up1 = new Image(31,31);  up1.src = "res/up1.gif";
+next0 = new Image(31,31);next0.src = "res/next.gif";
+next1 = new Image(31,31);next1.src = "res/next1.gif";
+prev0 = new Image(31,31);prev0.src = "res/prev.gif";
+prev1 = new Image(31,31);prev1.src = "res/prev1.gif";
+
+</script>
+<style type="text/css">
+body { background-image: url(res/bg.gif); background-repeat: repeat-x; }
+</style>
+<meta name="Microsoft Theme" content="saturday-run 001, default">
+</HEAD>
+
+<BODY ID="index" onload="keypresslistener();" bgcolor="#000000" text="#808080" link="#009900" vlink="#006600" alink="#009933"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+<CENTER>
+<!--mstheme--></font><TABLE style="height:54px;" cellspacing="0" cellpadding="0" border="0">
+<TR><TD valign="middle"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+<!-- Header with Multilevel index links for slide pages -->
+<!--mstheme--></font><TABLE cellspacing="0" cellpadding="0" border="0">
+<TR>
+
+<TD style="width:31px;"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times"><a href="../../2008.html#myBookmark" onmouseover="document.up.src=up1.src" onmouseout="document.up.src=up0.src"><img src="res/up.gif" width="31" height="31" border="0" title="Up one level" name="up" alt=""></a><!--mstheme--></font></TD>
+<TD style="width:20px;"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times"><IMG SRC="res/hdr_left.gif" border="0" alt="" width="20" height="31"><!--mstheme--></font></TD>
+<TD align="left" valign="middle" style="background:url(res/hdr_mid.gif);" class="osxtitle" nowrap="nowrap"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+<a href="index3.html">September 21, 2008 - Yosemite</a>
+<!--mstheme--></font></TD>
+<TD style="width:20px;"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times"><IMG SRC="res/hdr_right.gif" border="0" alt="" width="20" height="31"><!--mstheme--></font></TD>
+
+<TD style="width:31px;"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+<!-- Previous button -->
+  <a href="index2.html" onmouseover="document.prev.src=prev1.src" onmouseout="document.prev.src=prev0.src"><img src="res/prev.gif" width="31" height="31" border="0" title="Previous page" name="prev" alt=""></a><!--mstheme--></font></TD>
+
+
+<TD style="width:31px;"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+<!-- Next button -->
+  <a href="index4.html" onmouseover="document.next.src=next1.src" onmouseout="document.next.src=next0.src"><img src="res/next.gif" width="31" height="31" border="0" title="Next page" name="next" alt=""></a><!--mstheme--></font></TD>
+
+
+</TR></TABLE><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+<!--mstheme--></font></TD></TR></TABLE><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+<BR>
+
+<!--mstheme--></font><TABLE style="width:716px;" class="infotable" cellspacing="0" cellpadding="2">
+  
+  <TR><TD align="center" valign="middle" class="smalltxt"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+Page&nbsp;|&nbsp;<a href="index.html">1</a>&nbsp;|&nbsp;<a href="index2.html">2</a>&nbsp;|&nbsp;<strong>3</strong>&nbsp;|&nbsp;<a href="index4.html">4</a>&nbsp;|&nbsp;<a href="index5.html">5</a>&nbsp;|&nbsp;
+<!--mstheme--></font></TD></TR>
+</TABLE><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+<BR>
+<!-- ============= Start of thumbnail images ============= -->
+<!--mstheme--></font><TABLE cellspacing="4" cellpadding="0" border="0">
+<TR>
+  <TD align="center" valign="top"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+  
+  <!--mstheme--></font><TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+    <A HREF="slides/IMG_4595.html"><IMG class="image" SRC="thumbs/IMG_4595.JPG" title="IMG_4595.JPG" border="1" alt="" width="104" height="120"></A><!--mstheme--></font></TD></TR>
+  </TABLE><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+<!--mstheme--></font></TD><TD align="center" valign="top"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+  
+  <!--mstheme--></font><TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+    <A HREF="slides/IMG_4605.html"><IMG class="image" SRC="thumbs/IMG_4605.JPG" title="IMG_4605.JPG" border="1" alt="" width="87" height="120"></A><!--mstheme--></font></TD></TR>
+  </TABLE><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+<!--mstheme--></font></TD><TD align="center" valign="top"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+  
+  <!--mstheme--></font><TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+    <A HREF="slides/IMG_4627.html"><IMG class="image" SRC="thumbs/IMG_4627.JPG" title="IMG_4627.JPG" border="1" alt="" width="62" height="120"></A><!--mstheme--></font></TD></TR>
+  </TABLE><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+<!--mstheme--></font></TD><TD align="center" valign="top"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+  
+  <!--mstheme--></font><TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+    <A HREF="slides/DSC09554.html"><IMG class="image" SRC="thumbs/DSC09554.JPG" title="DSC09554.JPG" border="1" alt="" width="89" height="120"></A><!--mstheme--></font></TD></TR>
+  </TABLE><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+<!--mstheme--></font></TD><TD align="center" valign="top"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+  
+  <!--mstheme--></font><TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+    <A HREF="slides/DSC09533.html"><IMG class="image" SRC="thumbs/DSC09533.JPG" title="DSC09533.JPG" border="1" alt="" width="71" height="120"></A><!--mstheme--></font></TD></TR>
+  </TABLE><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+<!--mstheme--></font></TD></TR><TR>
+  <TD align="center" valign="top"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+  
+  <!--mstheme--></font><TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+    <A HREF="slides/IMG_4616.html"><IMG class="image" SRC="thumbs/IMG_4616.JPG" title="IMG_4616.JPG" border="1" alt="" width="120" height="102"></A><!--mstheme--></font></TD></TR>
+  </TABLE><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+<!--mstheme--></font></TD><TD align="center" valign="top"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+  
+  <!--mstheme--></font><TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+    <A HREF="slides/IMG_4622.html"><IMG class="image" SRC="thumbs/IMG_4622.JPG" title="IMG_4622.JPG" border="1" alt="" width="120" height="90"></A><!--mstheme--></font></TD></TR>
+  </TABLE><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+<!--mstheme--></font></TD><TD align="center" valign="top"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+  
+  <!--mstheme--></font><TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+    <A HREF="slides/IMG_4624.html"><IMG class="image" SRC="thumbs/IMG_4624.JPG" title="IMG_4624.JPG" border="1" alt="" width="120" height="71"></A><!--mstheme--></font></TD></TR>
+  </TABLE><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+<!--mstheme--></font></TD><TD align="center" valign="top"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+  
+  <!--mstheme--></font><TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+    <A HREF="slides/IMG_4647.html"><IMG class="image" SRC="thumbs/IMG_4647.JPG" title="IMG_4647.JPG" border="1" alt="" width="119" height="62"></A><!--mstheme--></font></TD></TR>
+  </TABLE><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+<!--mstheme--></font></TD><TD align="center" valign="top"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+  
+  <!--mstheme--></font><TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+    <A HREF="slides/IMG_4636.html"><IMG class="image" SRC="thumbs/IMG_4636.JPG" title="IMG_4636.JPG" border="1" alt="" width="84" height="120"></A><!--mstheme--></font></TD></TR>
+  </TABLE><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+<!--mstheme--></font></TD></TR><TR>
+  <TD align="center" valign="top"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+  
+  <!--mstheme--></font><TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+    <A HREF="slides/IMG_4735.html"><IMG class="image" SRC="thumbs/IMG_4735.JPG" title="IMG_4735.JPG" border="1" alt="" width="63" height="120"></A><!--mstheme--></font></TD></TR>
+  </TABLE><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+<!--mstheme--></font></TD><TD align="center" valign="top"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+  
+  <!--mstheme--></font><TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+    <A HREF="slides/IMG_4644.html"><IMG class="image" SRC="thumbs/IMG_4644.JPG" title="IMG_4644.JPG" border="1" alt="" width="119" height="60"></A><!--mstheme--></font></TD></TR>
+  </TABLE><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+<!--mstheme--></font></TD><TD align="center" valign="top"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+  
+  <!--mstheme--></font><TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+    <A HREF="slides/DSC09553.html"><IMG class="image" SRC="thumbs/DSC09553.JPG" title="DSC09553.JPG" border="1" alt="" width="83" height="120"></A><!--mstheme--></font></TD></TR>
+  </TABLE><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+<!--mstheme--></font></TD><TD align="center" valign="top"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+  
+  <!--mstheme--></font><TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+    <A HREF="slides/DSC09574.html"><IMG class="image" SRC="thumbs/DSC09574.JPG" title="DSC09574.JPG" border="1" alt="" width="88" height="120"></A><!--mstheme--></font></TD></TR>
+  </TABLE><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+<!--mstheme--></font></TD><TD align="center" valign="top"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+  
+  <!--mstheme--></font><TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+    <A HREF="slides/DSC09581.html"><IMG class="image" SRC="thumbs/DSC09581.JPG" title="DSC09581.JPG" border="1" alt="" width="90" height="120"></A><!--mstheme--></font></TD></TR>
+  </TABLE><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+<!--mstheme--></font></TD></TR><TR>
+  <TD align="center" valign="top"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+  
+  <!--mstheme--></font><TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+    <A HREF="slides/IMG_4703.html"><IMG class="image" SRC="thumbs/IMG_4703.JPG" title="IMG_4703.JPG" border="1" alt="" width="67" height="120"></A><!--mstheme--></font></TD></TR>
+  </TABLE><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+<!--mstheme--></font></TD><TD align="center" valign="top"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+  
+  <!--mstheme--></font><TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+    <A HREF="slides/IMG_4691.html"><IMG class="image" SRC="thumbs/IMG_4691.JPG" title="IMG_4691.JPG" border="1" alt="" width="77" height="120"></A><!--mstheme--></font></TD></TR>
+  </TABLE><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+<!--mstheme--></font></TD><TD align="center" valign="top"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+  
+  <!--mstheme--></font><TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+    <A HREF="slides/IMG_4658.html"><IMG class="image" SRC="thumbs/IMG_4658.JPG" title="IMG_4658.JPG" border="1" alt="" width="50" height="120"></A><!--mstheme--></font></TD></TR>
+  </TABLE><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+<!--mstheme--></font></TD><TD align="center" valign="top"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+  
+  <!--mstheme--></font><TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+    <A HREF="slides/IMG_4688.html"><IMG class="image" SRC="thumbs/IMG_4688.JPG" title="IMG_4688.JPG" border="1" alt="" width="100" height="120"></A><!--mstheme--></font></TD></TR>
+  </TABLE><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+<!--mstheme--></font></TD><TD align="center" valign="top"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+  
+  <!--mstheme--></font><TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+    <A HREF="slides/IMG_4666.html"><IMG class="image" SRC="thumbs/IMG_4666.JPG" title="IMG_4666.JPG" border="1" alt="" width="82" height="120"></A><!--mstheme--></font></TD></TR>
+  </TABLE><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+<!--mstheme--></font></TD></TR><TR>
+  <TD align="center" valign="top"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+  
+  <!--mstheme--></font><TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+    <A HREF="slides/DSC09578.html"><IMG class="image" SRC="thumbs/DSC09578.JPG" title="DSC09578.JPG" border="1" alt="" width="120" height="70"></A><!--mstheme--></font></TD></TR>
+  </TABLE><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+<!--mstheme--></font></TD><TD align="center" valign="top"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+  
+  <!--mstheme--></font><TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+    <A HREF="slides/DSC09594.html"><IMG class="image" SRC="thumbs/DSC09594.JPG" title="DSC09594.JPG" border="1" alt="" width="120" height="81"></A><!--mstheme--></font></TD></TR>
+  </TABLE><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+<!--mstheme--></font></TD><TD align="center" valign="top"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+  
+  <!--mstheme--></font><TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+    <A HREF="slides/DSC09439.html"><IMG class="image" SRC="thumbs/DSC09439.JPG" title="DSC09439.JPG" border="1" alt="" width="90" height="120"></A><!--mstheme--></font></TD></TR>
+  </TABLE><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+<!--mstheme--></font></TD><TD align="center" valign="top"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+  
+  <!--mstheme--></font><TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+    <A HREF="slides/IMG_4669.html"><IMG class="image" SRC="thumbs/IMG_4669.JPG" title="IMG_4669.JPG" border="1" alt="" width="90" height="120"></A><!--mstheme--></font></TD></TR>
+  </TABLE><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+<!--mstheme--></font></TD><TD align="center" valign="top"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+  
+  <!--mstheme--></font><TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle"><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+    <A HREF="slides/IMG_4679.html"><IMG class="image" SRC="thumbs/IMG_4679.JPG" title="IMG_4679.JPG" border="1" alt="" width="58" height="120"></A><!--mstheme--></font></TD></TR>
+  </TABLE><!--mstheme--><font face="Book Antiqua, Times New Roman, Times">
+  
+<!--mstheme--></font></TD></TR>
+</CENTER>
+<!--mstheme--></font></BODY>
+</HTML>

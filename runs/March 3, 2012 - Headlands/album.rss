@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>March 3, 2012 - Headlands</title>
+   	<link>.</link>
+        <generator>jAlbum 9</generator>
+   		<description></description>
+        <item>
+            <title>IMG_7782</title>
+            <link>slides/IMG_7782.html#</link>
+            <pubDate>Thu, 08 Mar 2012 17:47:13 -0800</pubDate>
+            <description>The first Saturday Morning Run I can remember in the Marin Headlands.</description>
+            <media:description type="html">The first Saturday Morning Run I can remember in the Marin Headlands.</media:description>
+            <media:thumbnail url="thumbs/IMG_7782.JPG" width="120" height="66"/>
+            <media:content type="image/jpeg" url="slides/IMG_7782.JPG" width="720" height="398"/>
+            <jalbum:exif originalDate="3/3/12 10:07 AM" cameraMake="Canon" cameraModel="Canon PowerShot S95"/>
+            <guid isPermaLink="false">slides/IMG_7782.JPG</guid>
+        </item>
+        <item>
+            <title>MVI_7796</title>
+            <link>MVI_7796.MOV#</link>
+            <pubDate>Thu, 08 Mar 2012 17:47:13 -0800</pubDate>
+            <description>Something really, really cool from a very old well and a stone...</description>
+            <media:description type="html">Something really, really cool from a very old well and a stone...</media:description>
+            <media:thumbnail url="res/movie.png" width="64" height="64"/>
+            <media:content  url="MVI_7796.MOV" width="64" height="64"/>
+            <jalbum:original url="MVI_7796.MOV" width="64" height="64" fileSize="27225688"/>
+            <guid isPermaLink="false">res/movie.png</guid>
+        </item>
+        <item>
+            <title>IMG_7798</title>
+            <link>slides/IMG_7798.html#</link>
+            <pubDate>Thu, 08 Mar 2012 17:47:13 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_7798.JPG" width="120" height="67"/>
+            <media:content type="image/jpeg" url="slides/IMG_7798.JPG" width="720" height="403"/>
+            <jalbum:exif originalDate="3/3/12 10:18 AM" cameraMake="Canon" cameraModel="Canon PowerShot S95"/>
+            <guid isPermaLink="false">slides/IMG_7798.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_7804</title>
+            <link>slides/IMG_7804.html#</link>
+            <pubDate>Thu, 08 Mar 2012 17:47:13 -0800</pubDate>
+            <description>Miwok Trail winding up from Rodeo Valley.</description>
+            <media:description type="html">Miwok Trail winding up from Rodeo Valley.</media:description>
+            <media:thumbnail url="thumbs/IMG_7804.JPG" width="120" height="56"/>
+            <media:content type="image/jpeg" url="slides/IMG_7804.JPG" width="720" height="341"/>
+            <jalbum:exif originalDate="3/3/12 10:44 AM" cameraMake="Canon" cameraModel="Canon PowerShot S95"/>
+            <guid isPermaLink="false">slides/IMG_7804.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_7805</title>
+            <link>slides/IMG_7805.html#</link>
+            <pubDate>Thu, 08 Mar 2012 17:47:13 -0800</pubDate>
+            <description>What a spot! This could be the place to be for the America's Cup yacht races next year.</description>
+            <media:description type="html">What a spot! This could be the place to be for the America's Cup yacht races next year.</media:description>
+            <media:thumbnail url="thumbs/IMG_7805.JPG" width="120" height="47"/>
+            <media:content type="image/jpeg" url="slides/IMG_7805.JPG" width="720" height="284"/>
+            <jalbum:exif originalDate="3/3/12 10:45 AM" cameraMake="Canon" cameraModel="Canon PowerShot S95"/>
+            <guid isPermaLink="false">slides/IMG_7805.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_7810</title>
+            <link>slides/IMG_7810.html#</link>
+            <pubDate>Thu, 08 Mar 2012 17:47:13 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_7810.JPG" width="120" height="61"/>
+            <media:content type="image/jpeg" url="slides/IMG_7810.JPG" width="720" height="366"/>
+            <jalbum:exif originalDate="3/3/12 10:46 AM" cameraMake="Canon" cameraModel="Canon PowerShot S95"/>
+            <guid isPermaLink="false">slides/IMG_7810.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_7823</title>
+            <link>slides/IMG_7823.html#</link>
+            <pubDate>Thu, 08 Mar 2012 17:47:13 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_7823.JPG" width="120" height="76"/>
+            <media:content type="image/jpeg" url="slides/IMG_7823.JPG" width="720" height="461"/>
+            <jalbum:exif originalDate="3/3/12 10:48 AM" cameraMake="Canon" cameraModel="Canon PowerShot S95"/>
+            <guid isPermaLink="false">slides/IMG_7823.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_7828</title>
+            <link>slides/IMG_7828.html#</link>
+            <pubDate>Thu, 08 Mar 2012 17:47:13 -0800</pubDate>
+            <description>So many great places to run in Marin.</description>
+            <media:description type="html">So many great places to run in Marin.</media:description>
+            <media:thumbnail url="thumbs/IMG_7828.JPG" width="120" height="77"/>
+            <media:content type="image/jpeg" url="slides/IMG_7828.JPG" width="720" height="463"/>
+            <jalbum:exif originalDate="3/3/12 10:48 AM" cameraMake="Canon" cameraModel="Canon PowerShot S95"/>
+            <guid isPermaLink="false">slides/IMG_7828.JPG</guid>
+        </item>
+    </channel>
+</rss>

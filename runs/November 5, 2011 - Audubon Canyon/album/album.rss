@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>album</title>
+   	<link>..</link>
+        <generator>jAlbum 9</generator>
+   		<description></description>
+        <item>
+            <title>folderimage</title>
+            <link>slides/folderimage.html#</link>
+            <pubDate>Sat, 05 Nov 2011 16:37:25 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/folderimage.jpg" width="120" height="53"/>
+            <media:content type="image/jpeg" url="slides/folderimage.jpg" width="720" height="320"/>
+            <guid isPermaLink="false">slides/folderimage.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,241 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> 
+<HTML>
+<HEAD>
+<!-- saved from url=(0013)about:internet -->
+<TITLE>September 6, 2008 - Matt Davis Trail</TITLE>
+<meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1">
+<meta name="Keywords" content="photo album,gallery,photo gallery,digital,photo,gallery,online">
+
+<link href="res/styles.css" rel="stylesheet">
+<script language="JavaScript1.2" type="text/javascript">
+<!--keyboard controls-->
+
+function keypress(e){
+  if(!e) var e = window.event;
+  if(e.keyCode) keyCode=e.keyCode; else if(e.which) keyCode=e.which;
+  switch(keyCode) {
+	case 8: window.location="../../index.html"; return false; break;
+	
+	
+	case 63273: case 36: window.location="index.html"; return false; break;
+	case 63275: case 35: window.location="index.html"; return false; break;
+	
+	
+  }
+  return true;
+}
+function keypresslistener() {
+if(document.all) { document.onkeydown = keypress; }
+else if(document.layers || document.getElementById) { document.onkeypress = keypress; }
+}
+up0 = new Image(31,31);  up0.src = "res/up.gif";
+up1 = new Image(31,31);  up1.src = "res/up1.gif";
+next0 = new Image(31,31);next0.src = "res/next.gif";
+next1 = new Image(31,31);next1.src = "res/next1.gif";
+prev0 = new Image(31,31);prev0.src = "res/prev.gif";
+prev1 = new Image(31,31);prev1.src = "res/prev1.gif";
+
+</script>
+<style type="text/css">
+body { background-image: url(res/bg.gif); background-repeat: repeat-x; }
+</style>
+</HEAD>
+
+<BODY ID="index" onload="keypresslistener();">
+<CENTER>
+<TABLE style="height:54px;" cellspacing="0" cellpadding="0" border="0">
+<TR><TD valign="middle">
+<!-- Header with Multilevel index links for slide pages -->
+<TABLE cellspacing="0" cellpadding="0" border="0">
+<TR>
+
+<TD style="width:31px;"><a href="../../2008.html#mybookmark" onmouseover="document.up.src=up1.src" onmouseout="document.up.src=up0.src"><img src="res/up.gif" width="31" height="31" border="0" title="Up one level" name="up" alt=""></a></TD>
+<TD style="width:20px;"><IMG SRC="res/hdr_left.gif" border="0" alt="" width="20" height="31"></TD>
+<TD align="left" valign="middle" style="background:url(res/hdr_mid.gif);" class="osxtitle" nowrap="nowrap">
+<a href="index.html">September 6, 2008 - Matt Davis Trail</a>
+</TD>
+<TD style="width:20px;"><IMG SRC="res/hdr_right.gif" border="0" alt="" width="20" height="31"></TD>
+
+
+
+</TR></TABLE>
+</TD></TR></TABLE>
+<BR>
+
+<TABLE style="width:716px;" class="infotable" cellspacing="0" cellpadding="2">
+  
+  <TR><TD align="center" valign="middle" class="smalltxt">
+Page | <b>1</b> |
+</TD></TR>
+</TABLE>
+<BR>
+<!-- ============= Start of thumbnail images ============= -->
+<TABLE cellspacing="4" cellpadding="0" border="0">
+<TR>
+  <TD align="center" valign="top">
+  
+  
+  <TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle">
+    <A HREF="slides/IMG_4315.html"><IMG class="image" SRC="thumbs/IMG_4315.JPG" title="IMG_4315.JPG" border="1" alt="" width="120" height="90"></A></TD></TR>
+  </TABLE>
+  
+</TD><TD align="center" valign="top">
+  
+  
+  <TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle">
+    <A HREF="slides/IMG_4327.html"><IMG class="image" SRC="thumbs/IMG_4327.JPG" title="IMG_4327.JPG" border="1" alt="" width="120" height="90"></A></TD></TR>
+  </TABLE>
+  
+</TD><TD align="center" valign="top">
+  
+  
+  <TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle">
+    <A HREF="slides/IMG_4335.html"><IMG class="image" SRC="thumbs/IMG_4335.JPG" title="IMG_4335.JPG" border="1" alt="" width="120" height="77"></A></TD></TR>
+  </TABLE>
+  
+</TD><TD align="center" valign="top">
+  
+  
+  <TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle">
+    <A HREF="slides/IMG_4339.html"><IMG class="image" SRC="thumbs/IMG_4339.JPG" title="IMG_4339.JPG" border="1" alt="" width="119" height="113"></A></TD></TR>
+  </TABLE>
+  
+</TD><TD align="center" valign="top">
+  
+  
+  <TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle">
+    <A HREF="slides/IMG_4365.html"><IMG class="image" SRC="thumbs/IMG_4365.JPG" title="IMG_4365.JPG" border="1" alt="" width="120" height="95"></A></TD></TR>
+  </TABLE>
+  
+</TD></TR><TR>
+  <TD align="center" valign="top">
+  
+  
+  <TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle">
+    <A HREF="slides/IMG_4366.html"><IMG class="image" SRC="thumbs/IMG_4366.JPG" title="IMG_4366.JPG" border="1" alt="" width="92" height="120"></A></TD></TR>
+  </TABLE>
+  
+</TD><TD align="center" valign="top">
+  
+  
+  <TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle">
+    <A HREF="slides/IMG_4367.html"><IMG class="image" SRC="thumbs/IMG_4367.JPG" title="IMG_4367.JPG" border="1" alt="" width="92" height="120"></A></TD></TR>
+  </TABLE>
+  
+</TD><TD align="center" valign="top">
+  
+  
+  <TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle">
+    <A HREF="slides/IMG_4369.html"><IMG class="image" SRC="thumbs/IMG_4369.JPG" title="IMG_4369.JPG" border="1" alt="" width="117" height="120"></A></TD></TR>
+  </TABLE>
+  
+</TD><TD align="center" valign="top">
+  
+  
+  <TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle">
+    <A HREF="slides/IMG_4398.html"><IMG class="image" SRC="thumbs/IMG_4398.JPG" title="IMG_4398.JPG" border="1" alt="" width="120" height="82"></A></TD></TR>
+  </TABLE>
+  
+</TD><TD align="center" valign="top">
+  
+  
+  <TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle">
+    <A HREF="slides/IMG_4400.html"><IMG class="image" SRC="thumbs/IMG_4400.JPG" title="IMG_4400.JPG" border="1" alt="" width="120" height="86"></A></TD></TR>
+  </TABLE>
+  
+</TD></TR><TR>
+  <TD align="center" valign="top">
+  
+  
+  <TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle">
+    <A HREF="slides/IMG_4429.html"><IMG class="image" SRC="thumbs/IMG_4429.JPG" title="IMG_4429.JPG" border="1" alt="" width="120" height="73"></A></TD></TR>
+  </TABLE>
+  
+</TD><TD align="center" valign="top">
+  
+  
+  <TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle">
+    <A HREF="slides/IMG_4449.html"><IMG class="image" SRC="thumbs/IMG_4449.JPG" title="IMG_4449.JPG" border="1" alt="" width="120" height="118"></A></TD></TR>
+  </TABLE>
+  
+</TD><TD align="center" valign="top">
+  
+  
+  <TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle">
+    <A HREF="slides/IMG_4453.html"><IMG class="image" SRC="thumbs/IMG_4453.JPG" title="IMG_4453.JPG" border="1" alt="" width="120" height="90"></A></TD></TR>
+  </TABLE>
+  
+</TD><TD align="center" valign="top">
+  
+  
+  <TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle">
+    <A HREF="slides/IMG_4465.html"><IMG class="image" SRC="thumbs/IMG_4465.JPG" title="IMG_4465.JPG" border="1" alt="" width="120" height="80"></A></TD></TR>
+  </TABLE>
+  
+</TD><TD align="center" valign="top">
+  
+  
+  <TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle">
+    <A HREF="slides/IMG_4466.html"><IMG class="image" SRC="thumbs/IMG_4466.JPG" title="IMG_4466.JPG" border="1" alt="" width="90" height="120"></A></TD></TR>
+  </TABLE>
+  
+</TD></TR><TR>
+  <TD align="center" valign="top">
+  
+  
+  <TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle">
+    <A HREF="slides/IMG_4468.html"><IMG class="image" SRC="thumbs/IMG_4468.JPG" title="IMG_4468.JPG" border="1" alt="" width="120" height="120"></A></TD></TR>
+  </TABLE>
+  
+</TD><TD align="center" valign="top">
+  
+  
+  <TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle">
+    <A HREF="slides/IMG_4473.html"><IMG class="image" SRC="thumbs/IMG_4473.JPG" title="IMG_4473.JPG" border="1" alt="" width="120" height="93"></A></TD></TR>
+  </TABLE>
+  
+</TD><TD align="center" valign="top">
+  
+  
+  <TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle">
+    <A HREF="slides/IMG_4478.html"><IMG class="image" SRC="thumbs/IMG_4478.JPG" title="IMG_4478.JPG" border="1" alt="" width="119" height="57"></A></TD></TR>
+  </TABLE>
+  
+</TD><TD align="center" valign="top">
+  
+  
+  <TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle">
+    <A HREF="slides/IMG_4480.html"><IMG class="image" SRC="thumbs/IMG_4480.JPG" title="IMG_4480.JPG" border="1" alt="" width="120" height="90"></A></TD></TR>
+  </TABLE>
+  
+</TD><TD align="center" valign="top">
+  
+  
+  <TABLE border="0" cellspacing="0" cellpadding="0"> <!-- Picture -->
+    <TR><TD style="width:140px; height:140px; background:url(res/dia.gif);" align="center" valign="middle">
+    <A HREF="slides/IMG_7069.html"><IMG class="image" SRC="thumbs/IMG_7069.JPG" title="IMG_7069.JPG" border="1" alt="" width="79" height="120"></A></TD></TR>
+  </TABLE>
+  
+</TD></TR>
+</CENTER>
+</BODY>
+</HTML>
